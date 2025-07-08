@@ -18,7 +18,8 @@ Eliminates the need for expensive physical hardware.
 Easy to use for beginners and professionals.
 #### Scenario-Based Learning: 
 Helps in troubleshooting and problem-solving.
-Supports IoT and Cybersecurity: Allows simulation of IoT networks and security configurations.
+#### Supports IoT and Cybersecurity: 
+Allows simulation of IoT networks and security configurations.
 
 ## Applications of Cisco Packet Tracer
 
