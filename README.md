@@ -13,7 +13,7 @@ Hands-on Learning – Supports CCNA, CCNP, and other networking certifications w
 ## Why Use Cisco Packet Tracer?
 
 #### Cost-effective: 
-Eliminates the need for expensive physical hardware.
+* Eliminates the need for expensive physical hardware.
 #### User-friendly Interface: 
 Easy to use for beginners and professionals.
 #### Scenario-Based Learning: 
