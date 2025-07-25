@@ -17,7 +17,7 @@ Hands-on Learning – Supports CCNA, CCNP, and other networking certifications w
 #### User-friendly Interface: 
 * Easy to use for beginners and professionals.
 #### Scenario-Based Learning: 
-Helps in troubleshooting and problem-solving.
+* Helps in troubleshooting and problem-solving.
 #### Supports IoT and Cybersecurity: 
 Allows simulation of IoT networks and security configurations.
 
