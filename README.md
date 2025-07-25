@@ -19,7 +19,7 @@ Hands-on Learning – Supports CCNA, CCNP, and other networking certifications w
 #### Scenario-Based Learning: 
 * Helps in troubleshooting and problem-solving.
 #### Supports IoT and Cybersecurity: 
-Allows simulation of IoT networks and security configurations.
+* Allows simulation of IoT networks and security configurations.
 
 ## Applications of Cisco Packet Tracer
 
