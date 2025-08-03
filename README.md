@@ -25,7 +25,7 @@ Hands-on Learning – Supports CCNA, CCNP, and other networking certifications w
 
 ## Applications of Cisco Packet Tracer
 
-Learning and practicing networking concepts.
+* Learning and practicing networking concepts.
 Preparing for Cisco certifications like CCNA and CCNP.
 Testing network designs before deploying them in real environments.
 Teaching networking courses in educational institutions.
