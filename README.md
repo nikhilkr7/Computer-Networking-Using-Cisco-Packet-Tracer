@@ -7,7 +7,7 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco tha
 ### Network Simulation 
 * Provides a realistic virtual environment for configuring routers, switches, and end devices.
 ### Multi-User Collaboration 
-Enables team-based learning with real-time collaboration.
+* Enables team-based learning with real-time collaboration.
 ### Extensive Device Support  
 Simulates various Cisco devices, including routers, switches, firewalls, and IoT devices.
 ### Packet-Level Analysis
