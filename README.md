@@ -13,7 +13,7 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco tha
 ### Packet-Level Analysis
 * Allows users to analyze data packets and understand network behavior.
 ### Hands-on Learning
-Supports CCNA, CCNP, and other networking certifications with interactive lab exercises.
+* Supports CCNA, CCNP, and other networking certifications with interactive lab exercises.
 
 ## Why Use Cisco Packet Tracer?
 
