@@ -17,7 +17,7 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco tha
 
 ## Why Use Cisco Packet Tracer?
 
-#### Cost-effective: 
+### Cost-effective: 
 
 * Eliminates the need for expensive physical hardware.
   
